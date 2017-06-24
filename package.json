@@ -1,9 +1,9 @@
 {
-  "name": "captionbot",
-  "version": "1.0.2",
+  "name": "mediocre-captionbot",
+  "version": "1.1.0",
   "description": "Get captions for image using Microsoft's CaptionBot 🤖",
   "license": "MIT",
-  "repository": "dylang/captionbot",
+  "repository": "mediocre/captionbot",
   "author": {
     "name": "Dylan Greene",
     "email": "dylang@gmail.com",
@@ -19,7 +19,12 @@
     "index.js"
   ],
   "keywords": [
-    "captionbot", "caption bot", "cognative", "describe", "descriptions", "automatic"
+    "captionbot",
+    "caption bot",
+    "cognative",
+    "describe",
+    "descriptions",
+    "automatic"
   ],
   "dependencies": {
     "got": "^6.3.0",
