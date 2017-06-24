@@ -1,4 +1,6 @@
-# captionbot [![Build Status](https://travis-ci.org/dylang/captionbot.svg?branch=master)](https://travis-ci.org/dylang/captionbot)
+# captionbot
+
+[![Build Status](https://travis-ci.org/mediocre/captionbot.svg?branch=master)](https://travis-ci.org/mediocre/captionbot)
 
 > Get captions for image using Microsoft's CaptionBot 🤖
 
